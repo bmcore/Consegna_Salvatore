@@ -1,0 +1,22 @@
+.img-circle {
+    width: 100px;
+    height: auto;
+}
+
+.imgPostata {}
+
+.nome {
+    display: inline-block;
+}
+
+.post {
+    width: 50%;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    margin: 30px auto;
+}
+
+.mybtn {
+    background-color: black;
+    border: none;
+}
